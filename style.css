@@ -49,7 +49,6 @@ button {
   width: 130rem;
   bottom: 55%;
   animation: flotar 3s ease-in-out infinite;
-  left: 40%;
 }
 
 @keyframes flotar {
